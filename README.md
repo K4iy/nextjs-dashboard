@@ -8,6 +8,3 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 git add .  
 git commit -m "変更内容の説明"  
 git push
-
-
-ff
